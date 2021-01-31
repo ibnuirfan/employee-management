@@ -1,0 +1,24 @@
+Problem statement
+Extension to the employee management app
+Based on the database design that was completed as part of the FS103 assignment following are
+the modules that are expected to completed as part of the project
+1. Employee Module: This module provides all functionality related to employees
+a. Admin can add new employees
+b. Admin can see the list of present employees
+c. Admin and only admin can edit the details of employees
+d. Admin should be able to activate or deactivate an employee
+e. All employee details are to be validated before storing them in the database
+2. Appraisal Module: This module helps in the management of appraisals for employees and
+all appraisals are managed by the immediate managers / supervisors of the employees
+a. A manager can manage the appraisal of an employee
+b. A manager only edit the appraisal of the employee
+c. A manager can view the appraisals of all the employees aligned / associated with
+him / her
+d. Employee can only view their appraisals / score cards
+3. Department Module: This module helps the admin to manage a department and associate
+employees to it
+a. Admin can manage departments
+i. Add new department
+ii. Edit the details of the department
+iii. Activate / Deactivate a department
+b. Admin can associate / dissociate employees to a departments
